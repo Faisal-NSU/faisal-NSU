@@ -59,6 +59,6 @@
 
 ---
 
-[website]: https://faisal-nsu.github.io/my-portfolio/
+[website]: https://faisal-nsu.github.io
 [instagram]: https://www.instagram.com/faisalisafk/
 [linkedin]: https://www.linkedin.com/in/faisalisafk/
